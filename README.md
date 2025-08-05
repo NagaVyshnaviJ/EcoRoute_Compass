@@ -21,7 +21,7 @@ EcoRoute Compass is a web application that helps users find the most eco-friendl
 - **Frontend:** HTML, CSS, JavaScript
 - **APIs:** Google Maps JavaScript API, Google Places API
 - **Backend/Database:** Firebase Firestore
-- **Hosting:** Firebase Hosting / Netlify
+- **Hosting:** Netlify
 
 ---
 
